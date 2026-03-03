@@ -2,6 +2,10 @@
 
 A Single Page Application (SPA) for managing user shopping carts based on the DummyJSON API.
 
+## 🌐 Live Demo
+
+**https://test-react-cart.vercel.app**
+
 ## 🚀 Quick Start
 
 ### Prerequisites
